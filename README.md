@@ -1,7 +1,7 @@
 ## EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
  
-## ADITYAH M S
-## 212223220002
+## SANJAY KUMAR H
+## 212223040182
 ## AIM:
 
 To implement the simple substitution technique named Caesar cipher using C language.
